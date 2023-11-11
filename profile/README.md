@@ -20,7 +20,7 @@ Comprehensive guides and step-by-step tutorials are available to help you get st
 
 ## Premium Support
 
-Enhance your Serenity experience with our premium support packages. For more information on what's included, visit the [Premium Support Page](http://serenity.is).
+Enhance your Serenity experience with our premium support packages. For more information on what's included, visit the [Serenity Homepage](http://serenity.is).
 
 ## Commercial Support
 
