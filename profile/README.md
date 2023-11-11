@@ -26,17 +26,6 @@ Enhance your Serenity experience with our premium support packages. For more inf
 
 For professional paid support, you can contact a team of dedicated Serenity professionals. Reach out to us via [sales@serenity.is](mailto:sales@serenity.is) for more details.
 
-## Contributing
-
-We welcome contributions from the community. Please consult our contributing guidelines for more information on how you can participate in the development of Serenity.
-
-## License
-
-Serenity is released under the MIT license, making it free to use in both personal and commercial projects.
-
 ## Reporting Issues
 
 If you encounter any bugs or issues, please report them on the [issue tracker](https://github.com/serenity-is/Serenity/issues/new/choose).
-
----
-For further information and questions, visit the [Serenity Homepage](https://serenity.is).
