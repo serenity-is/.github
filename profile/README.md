@@ -18,9 +18,9 @@ Comprehensive guides and step-by-step tutorials are available to help you get st
 - [Serenity Developer Guide](https://serenity.is/docs/)
 - [Serenity Blog](https://serenity.is/blog/): Follow for updates, new feature announcements, and releases.
 
-## Premium Support
+## Premium StartSharp Package
 
-Enhance your Serenity experience with our premium support packages. For more information on what's included, visit the [Serenity Homepage](http://serenity.is).
+Enhance your Serenity experience with our premium StartSharp package. It includes support from our team by default. For more information on what's included, visit the [Serenity Homepage](http://serenity.is#Pricing).
 
 ## Commercial Support
 
